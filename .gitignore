@@ -1,0 +1,6 @@
+#ignores everything except source code and .gitignore
+*
+!README.md
+!matrix.cpp
+!matrix.h
+!.gitignore
